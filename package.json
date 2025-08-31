@@ -1,0 +1,17 @@
+{
+  "name": "frontendlearning",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cssnano": "4.1.11",
+    "parcel": "2.15.4"
+  }
+}
