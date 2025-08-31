@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "dependencies": {
+  "devDependencies": {
     "cssnano": "4.1.11",
     "parcel": "2.15.4"
   }
